@@ -1,7 +1,3 @@
-Here's a sample README file you can use for your Bug/Task Tracker Interface project on GitHub:
-
----
-
 # Bug/Task Tracker
 
 A web application built with Next.js/React.js for tracking bugs and tasks, equipped with user authentication, task creation, and time tracking functionalities.
@@ -99,6 +95,6 @@ bug-tracker/
 4. Access the app in your browser at `http://localhost:5173`.
 
 ## Demo
-- [Live Demo Link](#) 
+- [Live Demo Link](https://bugtracker-rho.vercel.app/login) 
 - [Video Showcase](#) 
 
