@@ -31,6 +31,11 @@ This project is a bug and task tracker interface designed to demonstrate fronten
 - **Time Tracker**: Log time spent on each task and display the total time.
 - **Responsive UI**: A clean, user-friendly interface optimized for desktop and mobile devices.
 
+##Example Login
+- admin@example.com
+- password = password
+
+
 ## Technology Stack
 - **Frontend**: Next.js/React.js
 - **Styling**: CSS / CSS-in-JS (e.g., styled-components)
